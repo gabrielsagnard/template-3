@@ -1,0 +1,14 @@
+.progress-bar-a
+{
+    background-color:yellow;
+}
+
+.progress-bar-c
+{
+    background-color:blue;
+}
+
+.progress-bar-d
+{
+    background-color:green;
+}
